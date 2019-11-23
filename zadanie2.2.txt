@@ -1,0 +1,1 @@
+Napisz pętlę, która wypisze wszystkie liczby calkowite z przedziału [5, 12] - czyli zaczynajac od 5 konczac na 12
